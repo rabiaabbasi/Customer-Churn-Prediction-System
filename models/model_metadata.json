@@ -1,0 +1,27 @@
+{
+    "best_model": "Gradient Boosting",
+    "selection_metric": "ROC AUC",
+    "test_size": 0.2,
+    "random_state": 42,
+    "features": [
+        "gender",
+        "SeniorCitizen",
+        "Partner",
+        "Dependents",
+        "tenure",
+        "PhoneService",
+        "MultipleLines",
+        "InternetService",
+        "OnlineSecurity",
+        "OnlineBackup",
+        "DeviceProtection",
+        "TechSupport",
+        "StreamingTV",
+        "StreamingMovies",
+        "Contract",
+        "PaperlessBilling",
+        "PaymentMethod",
+        "MonthlyCharges",
+        "TotalCharges"
+    ]
+}
